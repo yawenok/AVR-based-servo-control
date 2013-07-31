@@ -1,0 +1,1 @@
+main.o SP027.o queue.o decode.o globle.o timer.o system.o pid.o communicate.o collectdata.o setpwm.o 
